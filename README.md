@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 Atualmente trabalho com fron-end e back-end
+- 🔭 Atualmente trabalho com front-end(React) e back-end(Java)
 - 🌱 Sempre em constante atualização (React, Node.js, Typescript, Java Spring,...)
 - 📫 Me procure no e-mail: mjaramos@gmail.com
 - 😄 Pronouns: ...
